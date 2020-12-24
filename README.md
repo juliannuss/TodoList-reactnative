@@ -1,5 +1,6 @@
 # TodoList-reactnative
-Originally created for class
+Originally created for App Development class using React native. 
 
-uses api to post, get, put, and delete new todos. 
+Uses given api to get all of the todos for a specific api key,
+able to post to the api to add new todos, delete todos, and complete todos
 
